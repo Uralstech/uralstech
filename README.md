@@ -12,6 +12,9 @@
 #### I'm using...
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&color=00ADEF) ![Pop!\_OS](https://img.shields.io/badge/Pop!__OS-black?style=for-the-badge&logo=popos&color=48B9C7&logoColor=FFFFFF) ![Linux Lite](https://img.shields.io/badge/Linux_Lite-black?style=for-the-badge&color=FFE082) ![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=FFFFFF&color=A4C639) ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=000000&color=ECC30C) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visualstudio&color=A578DC) ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&color=0078D7) ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=000000&color=FFFFFF) ![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=FFFFFF&color=EA7600) ![Piskel](https://img.shields.io/badge/Piskel-black?style=for-the-badge&color=04E004) ![OBS Studio](https://img.shields.io/badge/OBS_Studio-black?style=for-the-badge&logo=obsstudio&logoColor=000000&color=FFFFFF)
 
+#### Stats
+![GitHub](https://github-readme-stats.vercel.app/api?username=uralstech&show_icons=true&theme=transparent) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=compact&theme=transparent)
+
 <!--
 **Uralstech/uralstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
