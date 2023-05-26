@@ -16,21 +16,22 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 [![Squash AR](https://img.shields.io/badge/Squash_AR-black?style=for-the-badge&logo=meta&logoColor=0080FB&color=80D4FF)](https://www.oculus.com/experiences/quest/9005281436156314/)
 
 #### I develop using...
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=000000&color=FFFFFF)
-![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&color=512BD4)
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&color=9B4993)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=FFDE57)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visualstudio&color=A578DC)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&color=0078D7)
-![Jekyll](https://img.shields.io/badge/Jekyll-black?style=for-the-badge&logo=jekyll&logoColor=FFFFFF&color=ff0000)
-![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=FFFFFF&color=EA7600)
-![Piskel](https://img.shields.io/badge/Piskel-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUUlEQVQ4T2P8////fwYKACPIANl6VBMeNzIwECs2XAygIAwZwGHA+pAVxYzf8r8ZiBUbLgZQHIjftBhRzOC69p+BWDFwIBKrGJu6QWIAJYEIAG2Nn9Hr4cdpAAAAAElFTkSuQmCC&color=04E004)
+[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=000000&color=FFFFFF)](https://unity.com/)
+[![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet&color=512BD4)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&color=9B4993)](https://dotnet.microsoft.com/languages/csharp)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=FFDE57)](https://www.python.org/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visualstudio&color=A578DC)](https://visualstudio.microsoft.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&color=0078D7)](https://code.visualstudio.com/)
+[![Jekyll](https://img.shields.io/badge/Jekyll-black?style=for-the-badge&logo=jekyll&logoColor=FFFFFF&color=ff0000)](https://jekyllrb.com/)
+[![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=FFFFFF&color=EA7600)](https://www.blender.org/)
+[![Piskel](https://img.shields.io/badge/Piskel-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUUlEQVQ4T2P8////fwYKACPIANl6VBMeNzIwECs2XAygIAwZwGHA+pAVxYzf8r8ZiBUbLgZQHIjftBhRzOC69p+BWDFwIBKrGJu6QWIAJYEIAG2Nn9Hr4cdpAAAAAElFTkSuQmCC&color=04E004)](https://www.piskelapp.com/)
 
 #### I develop for...
-![Quest](https://img.shields.io/badge/Quest-black?style=for-the-badge&logo=meta&logoColor=FFFFFF&color=0080FB)
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=FFFFFF&color=A4C639)
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&color=00ADEF)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=000000&color=ECC30C)
+[![Quest](https://img.shields.io/badge/Quest-black?style=for-the-badge&logo=meta&logoColor=FFFFFF&color=0080FB)](https://www.meta.com/quest/)
+[![JioGlass](https://img.shields.io/badge/JioGlass-black?style=for-the-badge&logo=relianceindustrieslimited&logoColor=FFFFFF&color=005AAC)](https://tesseract.in/)
+[![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=FFFFFF&color=A4C639)](https://www.android.com/)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&color=00ADEF)](https://www.microsoft.com/windows/)
+[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=000000&color=ECC30C)](https://www.kernel.org/)
 
 #### And I'm on...
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://GitHub.com/Uralstech)
