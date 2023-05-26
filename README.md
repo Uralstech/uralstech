@@ -24,7 +24,7 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&color=0078D7)
 ![Jekyll](https://img.shields.io/badge/Jekyll-black?style=for-the-badge&logo=jekyll&logoColor=FFFFFF&color=ff0000)
 ![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=FFFFFF&color=EA7600)
-![Piskel](https://img.shields.io/badge/Piskel-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVQ4T2NkYGD4z0ABYAQZIFOHasaTJkYG0YRDKMa+XmCHVWy4GEBBGDKAw4DlAQuKGX8U/jAwr2ZGEfsb+peBqYkJRexf3b9hYwDFgfhVE9UI7usMDPsVUMUcHzAw9IijipW8ZIAE4jAwgJJABABEDXABcRu6WgAAAABJRU5ErkJgggAA&color=04E004)
+![Piskel](https://img.shields.io/badge/Piskel-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUUlEQVQ4T2P8////fwYKACPIANl6VBMeNzIwECs2XAygIAwZwGHA+pAVxYzf8r8ZiBUbLgZQHIjftBhRzOC69p+BWDFwIBKrGJu6QWIAJYEIAG2Nn9Hr4cdpAAAAAElFTkSuQmCC&color=04E004)
 
 #### I develop for...
 ![Quest](https://img.shields.io/badge/Quest-black?style=for-the-badge&logo=meta&logoColor=FFFFFF&color=0080FB)
