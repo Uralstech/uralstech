@@ -28,7 +28,7 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 
 #### I develop for...
 [![Quest](https://img.shields.io/badge/Quest-black?style=for-the-badge&logo=meta&logoColor=FFFFFF&color=0080FB)](https://www.meta.com/quest/)
-[![JioGlass](https://img.shields.io/badge/JioGlass-black?style=for-the-badge&logo=relianceindustrieslimited&logoColor=FFFFFF&color=005AAC)](https://tesseract.in/)
+[![Jio MR](https://img.shields.io/badge/Jio_MR-black?style=for-the-badge&logo=relianceindustrieslimited&logoColor=FFFFFF&color=005AAC)](https://tesseract.in/)
 [![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=FFFFFF&color=A4C639)](https://www.android.com/)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&color=00ADEF)](https://www.microsoft.com/windows/)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=000000&color=ECC30C)](https://www.kernel.org/)
