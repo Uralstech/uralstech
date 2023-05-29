@@ -42,8 +42,8 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 [![My Website](https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io)
 
 #### My stats!
-![GitHub](https://github-readme-stats.vercel.app/api?username=uralstech&line_height=28&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=donut&theme=github_dark)
+![GitHub](https://github-readme-stats.vercel.app/api?username=uralstech&line_height=28&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=donut&theme=transparent)
 
 <!--
 **Uralstech/uralstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
