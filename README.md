@@ -40,7 +40,7 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@uralstechnologies9017)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=FFFFFF&color=4267B2)](https://www.facebook.com/100082467614963)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B5)](https://www.linkedin.com/in/udayshankar-ctourals)
-[![My Website](https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io)
+[![My Blog](https://img.shields.io/badge/My_Blog-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io)
 
 #### My stats!
 ![GitHub](https://github-readme-stats.vercel.app/api?username=uralstech&line_height=28&show_icons=true&theme=transparent)
