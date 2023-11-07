@@ -31,7 +31,7 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 [![My Blog](https://img.shields.io/badge/My_Blog-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io)
 
 #### My stats!
-![GitHub](https://github-readme-stats.vercel.app/api?username=uralstech&line_height=28&show_icons=true&theme=transparent)
+![GitHub](https://github-readme-stats.vercel.app/api?username=uralstech&show=discussions_started,prs_merged_percentage&show_icons=true&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&hide_title=true&ring_color=434d58&icon_color=434d58&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=donut&theme=transparent)
 
 <!--
