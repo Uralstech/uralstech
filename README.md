@@ -31,8 +31,8 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 [![My Blog](https://img.shields.io/badge/My_Blog-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io)
 
 #### My stats!
-![GitHub](https://github-readme-stats.vercel.app/api?username=Uralstech&hide=contribs&show=prs_merged_percentage&show_icons=true&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&hide_title=true&ring_color=333333&icon_color=333333&include_all_commits=true&text_color=333333)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=compact&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&title_color=333333&text_color=333333)
+![GitHub](https://github-readme-stats.vercel.app/api?username=Uralstech&hide=contribs&show=prs_merged_percentage&show_icons=true&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&hide_title=true&ring_color=333333&icon_color=333333&include_all_commits=true&text_color=333333&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=compact&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&title_color=333333&text_color=333333&hide_border=true)
 
 <!--
 **Uralstech/uralstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
