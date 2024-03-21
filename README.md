@@ -23,12 +23,12 @@ I'm **Udayshankar Ravikumar**, [*PCAP*](https://pythoninstitute.org/pcap). I'm a
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=000000&color=ECC30C)](https://www.kernel.org/)
 
 #### And I'm on...
+[![My Blog](https://img.shields.io/badge/My_Blog-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=000000&color=FFFFFF)](https://GitHub.com/Uralstech)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=FFFFFF&color=5865F2)](https://discord.com/users/856445664372326400)
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FFFFFF&color=FF0000)](https://www.youtube.com/@uralstechnologies9017)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=FFFFFF&color=4267B2)](https://www.facebook.com/100082467614963)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B5)](https://www.linkedin.com/in/udayshankar-ctourals)
-[![My Blog](https://img.shields.io/badge/My_Blog-black?style=for-the-badge&logo=jekyll&color=FF0000&logoColor=FFFFFF)](https://uralstech.github.io)
 
 #### My stats!
 ![GitHub](https://github-readme-stats.vercel.app/api?username=Uralstech&hide=contribs&show=prs_merged_percentage&show_icons=true&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&hide_title=true&ring_color=333333&icon_color=333333&include_all_commits=true&text_color=333333&hide_border=true)
