@@ -6,7 +6,7 @@ I'm **Udayshankar Ravikumar** (he/him), [*PCAP*](https://pythoninstitute.org/pca
 
 #### I develop using...
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=000000&color=FFFFFF)](https://unity.com/)
-[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&color=9B4993)](https://dotnet.microsoft.com/languages/csharp)
+[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=dotnet&color=9B4993)](https://dotnet.microsoft.com/languages/csharp)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=FFDE57)](https://www.python.org/)
 [![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=FFFFFF&color=E87D0D)](https://www.blender.org/)
 [![Piskel](https://img.shields.io/badge/Piskel-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUUlEQVQ4T2P8////fwYKACPIANl6VBMeNzIwECs2XAygIAwZwGHA+pAVxYzf8r8ZiBUbLgZQHIjftBhRzOC69p+BWDFwIBKrGJu6QWIAJYEIAG2Nn9Hr4cdpAAAAAElFTkSuQmCC&color=04E004)](https://www.piskelapp.com/)
