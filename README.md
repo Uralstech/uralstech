@@ -32,4 +32,4 @@ I'm **Udayshankar Ravikumar** (he/him), [*PCAP*](https://pythoninstitute.org/pca
 
 #### My stats!
 ![GitHub](https://github-readme-stats.vercel.app/api?username=Uralstech&hide=contribs&show=prs_merged_percentage&show_icons=true&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&hide_title=true&ring_color=333333&icon_color=333333&include_all_commits=true&text_color=333333&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=compact&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&title_color=333333&text_color=333333&hide_border=true&card_width=360)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uralstech&layout=compact&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&title_color=333333&text_color=333333&hide_border=true&card_width=360&exclude_repo=uralstech.github.io)
