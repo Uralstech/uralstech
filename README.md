@@ -8,7 +8,6 @@ I'm **Udayshankar Ravikumar** (he/him), [*PCAP*](https://pythoninstitute.org/pca
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=000000&color=FFFFFF)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=dotnet&color=9B4993)](https://dotnet.microsoft.com/languages/csharp)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=FFDE57)](https://www.python.org/)
-[![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=FFFFFF&color=E87D0D)](https://www.blender.org/)
 [![Piskel](https://img.shields.io/badge/Piskel-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAUUlEQVQ4T2P8////fwYKACPIANl6VBMeNzIwECs2XAygIAwZwGHA+pAVxYzf8r8ZiBUbLgZQHIjftBhRzOC69p+BWDFwIBKrGJu6QWIAJYEIAG2Nn9Hr4cdpAAAAAElFTkSuQmCC&color=04E004)](https://www.piskelapp.com/)
 
 #### I use...
@@ -18,6 +17,7 @@ I'm **Udayshankar Ravikumar** (he/him), [*PCAP*](https://pythoninstitute.org/pca
 #### I develop for...
 [![Quest](https://img.shields.io/badge/Quest-black?style=for-the-badge&logo=meta&logoColor=FFFFFF&color=0467DF)](https://www.meta.com/quest/)
 [![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=FFFFFF&color=34A853)](https://www.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=iOS&logoColor=000000&color=FFFFFF)](https://www.apple.com/ios/)
 [![Jio MR](https://img.shields.io/badge/Jio_MR-black?style=for-the-badge&logo=relianceindustrieslimited&logoColor=FFFFFF&color=005AAC)](https://tesseract.in/)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&color=00ADEF)](https://www.microsoft.com/windows/)
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=000000&color=FCC624)](https://www.kernel.org/)
