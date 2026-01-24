@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&title_color=333333&text_color=333333&hide_border=true&card_width=360&exclude_repo=uralstech.github.io,AIDE-Chip-Surrogates,Qwen-KCC-On-Device-Pipeline
+          options: username=${{ github.repository_owner }}&layout=compact&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&title_color=333333&text_color=333333&hide_border=true&card_width=360&exclude_repo=uralstech.github.io,AIDE-Chip-Surrogates,Qwen-KCC-On-Device-Pipeline,hAI-Friend-MR-Model-Sideloader
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
