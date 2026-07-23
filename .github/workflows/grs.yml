@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&hide=contribs&show=prs_merged_percentage&show_icons=true&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&hide_title=true&ring_color=333333&icon_color=333333&include_all_commits=true&text_color=333333&hide_border=true
@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&bg_color=35,ff4d4d,ff7f4d,ffbf4d,ffff4d,5cff5a,547fff&title_color=333333&text_color=333333&hide_border=true&card_width=360&exclude_repo=uralstech.github.io,AIDE-Chip-Surrogates,Qwen-KCC-On-Device-Pipeline,hAI-Friend-MR-Model-Sideloader,UXR.Utilities
@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
