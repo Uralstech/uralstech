@@ -140,7 +140,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="235.97"
+          width="235.83"
           height="8"
           fill="#178600"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.97"
+          x="235.83"
           y="0"
-          width="52.23"
+          width="52.4"
           height="8"
           fill="#3572A5"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="288.2"
+          x="288.23"
           y="0"
-          width="19.79"
+          width="19.78"
           height="8"
           fill="#f34b7d"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="297.99"
+          x="298.01"
           y="0"
-          width="18.39"
+          width="18.369999999999997"
           height="8"
           fill="#A97BFF"
         />
@@ -201,28 +201,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 76.12%
+        C# 76.07%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 16.85%
+        Python 16.90%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 3.16%
+        C++ 3.15%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 2.71%
+        Kotlin 2.70%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
