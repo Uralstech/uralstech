@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Udayshankar Ravikumar&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1986, Total PRs: 118, Merged PRs Percentage: 98.31, Total Issues: 18</desc>
+        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1987, Total PRs: 118, Merged PRs Percentage: 98.31, Total Issues: 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.19319706972115;
+        stroke-dashoffset: 84.1858702080436;
       }
     }
   
