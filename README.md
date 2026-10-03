@@ -4,9 +4,9 @@
 Welcome to my GitHub! This is where I document my open-source work. You can find more detailed write-ups on [my blog](https://uralstech.github.io), and more frequent updates on my [X](https://x.com/uralstechCTO).
 
 <p>
+    <a href="https://uralstech.github.io"><img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=jekyll&color=CC0000&logoColor=FFFFFF"></a>
     <a href="https://x.com/uralstechCTO"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=FFFFFF&color=000000"></a>
     <a href="https://discord.com/users/856445664372326400"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=FFFFFF&color=5865F2"></a>
-    <a href="https://uralstech.github.io"><img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=jekyll&color=CC0000&logoColor=FFFFFF"></a>
     <a href="https://www.youtube.com/@kuttikkali-l2w"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FFFFFF&color=FF0000"></a>
     <a href="https://www.linkedin.com/in/udayshankar-ctourals"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2"></a>
 </p>
